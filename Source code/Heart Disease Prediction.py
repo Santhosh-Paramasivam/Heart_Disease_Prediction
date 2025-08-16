@@ -1,5 +1,3 @@
-from sklearn.linear_model import LogisticRegression
-import pandas as pd
 import pickle
 import tkinter as tk
 import customtkinter
